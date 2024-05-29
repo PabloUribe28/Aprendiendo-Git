@@ -1,1 +1,2 @@
-Hola, soy Pablo y estoy aprendiendo git
+Hola, soy Pablo y estoy enseñando git.
+Me sorprende que aprenden muy rapido.
